@@ -18,4 +18,4 @@ The Digital Governance Standards Institute, accredited by the Standards Council 
 
 The Council assesses and certifies the compliance of organizations with the digital governance standards developed by the Digital Governance Standards Institute. Certification by the Council is a mark of trust for Canadians and organizations everywhere.
 					
-
+![](./DGC-CGN.png)
