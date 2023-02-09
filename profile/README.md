@@ -18,6 +18,12 @@ The Digital Governance Standards Institute, accredited by the Standards Council 
 
 The Council assesses and certifies the compliance of organizations with the digital governance standards developed by the Digital Governance Standards Institute. Certification by the Council is a mark of trust for Canadians and organizations everywhere.
 
+Contribute to our flagship conformity assessment schemes in the respositories below.
+
+* Conformity Assessment Scheme: [Digital Trust](https://github.com/CIOSC/CAS-Digital-Trust)
+* Conformity Assessment Scheme: [Digital Credentials](https://github.com/CIOSC/CAS-Digital-Credentials)
+
+If you are a DGC-CGN Member, you can participate in our Pilot Engagement Program at no cost.
 ---
 					
 ![](./DGC-CGN.png)
