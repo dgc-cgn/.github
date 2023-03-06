@@ -21,8 +21,8 @@ The Council assesses and certifies the compliance of organizations with the digi
 
 Contribute to our flagship conformity assessment schemes in the respositories below.
 
-* Conformity Assessment Scheme: [Digital Trust](https://github.com/CIOSC/CAS-Digital-Trust)
-* Conformity Assessment Scheme: [Digital Credentials](https://github.com/CIOSC/CAS-Digital-Credentials)
+* Conformity Assessment Scheme: [Digital Trust](https://github.com/dgc-cgn/CAS-Digital-Trust)
+* Conformity Assessment Scheme: [Digital Credentials](https://github.com/dgc-cgn/CAS-Digital-Credentials)
 
 If you are a DGC-CGN Member, you can participate in our Pilot Engagement Program at no cost.
 ---
