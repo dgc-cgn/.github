@@ -1,5 +1,5 @@
 # Digital Governance Council
-Quick Links: [Digital Trust](https://github.com/dgc-cgn/CAS-Digital-Trust)|[Digital Credentials](https://github.com/dgc-cgn/CAS-Digital-Credentials)
+Quick Links: [Digital Trust Conformity Assessment Schemes](https://github.com/dgc-cgn/CAS-Digital-Trust)
 
 ## What We Do
 
