@@ -1,5 +1,5 @@
 # Digital Governance Council
-Quick Links: [Digital Trust Conformity Assessment Scheme](https://github.com/dgc-cgn/CAS-Digital-Trust)|[Public Statements](public-information/PUBLIC-STATEMENTS.md)
+Quick Links: [Digital Trust Conformity Assessment Program](https://github.com/dgc-cgn/CAS-Digital-Trust)|[Assessment Schemes](https://github.com/dgc-cgn/CAS-Digital-Trust/blob/main/scheme/profiles/profiles-overview.md)|[Public Statements](public-information/PUBLIC-STATEMENTS.md)
 
 ## What We Do
 
