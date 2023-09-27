@@ -26,5 +26,6 @@ Contribute to our flagship conformity assessment schemes in the respositories be
 
 If you are a DGC-CGN Member, you can participate in our Pilot Engagement Program at no cost.
 ---
+Our Values:|Collaborative|Neutral|Transparent|Expert|National|Nimble|Doer|
 					
 ![](./DGC-CGN.png)
